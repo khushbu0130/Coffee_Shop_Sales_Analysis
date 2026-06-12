@@ -10,7 +10,7 @@ This project focuses on analyzing coffee shop sales data to uncover valuable bus
 
 ## 📸 Dashboard Preview
 
-![Coffee Shop Sales SS.png]
+![(Coffee Shop Sales SS.png)]
 
 ---
 
